@@ -4,8 +4,6 @@ import { PORTFOLIO } from "../../../constants";
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
-// import { ExternalLink, Github } from "lucide-react"; // Make sure these icons exist
-import Button from "./Button";
 import { FiExternalLink } from "react-icons/fi";
 import { LuGithub } from "react-icons/lu";
 const Portfolio = () => {

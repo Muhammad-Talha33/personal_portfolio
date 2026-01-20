@@ -87,14 +87,14 @@ const About = () => {
           <h1 className="text-2xl text-center md:text-left font-bold">Crafting Digital Experiences Since 2023</h1>
           <p className="mb-8">
           <br />
-            <span className="font-extrabold">I'm a Front-end
+            <span className="font-extrabold">I&apos;m a Front-end
             developer</span> based in Pakistan, passionate about creating web
             applications that make a difference. My journey started with a
             curiosity about how websites work, and it has evolved into a deep
             love for both the technical and creative aspects of development.
-            When I'm not coding, you'll find me exploring the latest design
+            When I&apos;m not coding, you&apos;ll find me exploring the latest design
             trends, contributing to open-source projects, or hiking through the
-            beautiful California landscapes. I'm always excited to take on new
+            beautiful California landscapes. I&apos;m always excited to take on new
             challenges and collaborate with like-minded individuals who share a
             passion for innovation and quality.
           </p>

@@ -53,7 +53,7 @@ const Hero = () => {
       {/* Left */}
       <div className="relative z-20 flex flex-1 flex-col pt-16">
         <h4 className="font-semibold lg:text-left text-center md:bold-20 text-3xl">
-          Hi, I'm
+          Hi, I&apos;m
         </h4>
         <h1 className="bold-40 lg:bold-64 lg:text-left relative text-center">
           Muhammad Talha

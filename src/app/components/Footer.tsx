@@ -1,11 +1,9 @@
 "use client";
 import React from 'react'
 import { motion } from 'framer-motion'
-// import { Heart, Github, Linkedin, Instagram } from 'lucide-react';
 import Link from 'next/link';
 import {FaInstagram} from 'react-icons/fa';
 import { LuGithub, LuLinkedin } from "react-icons/lu";
-import { BiHeart } from 'react-icons/bi';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
